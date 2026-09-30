@@ -1,0 +1,6 @@
+interface:
+  display_name: "Plan Exec"
+  short_description: "Execute approved plans fully, with evidence and audits"
+  default_prompt: "Use $plan-exec to execute my approved plan fully and verify every commitment."
+policy:
+  allow_implicit_invocation: true
